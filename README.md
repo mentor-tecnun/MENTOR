@@ -8,7 +8,7 @@
   <li>
     <a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/LLMinLearning_v1.2b.md">LLM in Learning</a><br>
 <img src="https://q-server.tecnun.es/codex/images/login/image9.jpeg" alt=""></li>
-</ul>ul>
+</ul>
 
 <!--    
 - [AI presentation](https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md)  
@@ -54,7 +54,7 @@
 
         /* Style for the images */
         img {
-            max-width: 448px;
+            max-width: 448px !important;
             height: 182px;
             border-radius: 5px;
         }
