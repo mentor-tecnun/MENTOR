@@ -1,7 +1,7 @@
 # LLM in Learning
 
 <ul>
-  <li><a href="https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md">AI presentation<
+  <li><a href="https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md">AI presentation
 <img src="https://www.researchgate.net/profile/Zafar-Khan/publication/309771961/figure/fig10/AS:668716249399301@1536445786169/Prediction-of-Moores-Law-1_W640.jpg" alt=""></a></li>
   <li><a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/APIChatGPTv1.3.md">OpenAI API
 <img src="https://images.openai.com/blob/b11fba8c-c51f-41c1-95b8-cc55db89af49/gpt-4-motif.svg?width=10&amp;height=10&amp;quality=50" alt=""></a></li>
@@ -58,6 +58,7 @@
             max-width: 206px !important;
             height: 182px;
             border-radius: 5px;
+            float: right;
         }
 
         /* Style for the list container */
