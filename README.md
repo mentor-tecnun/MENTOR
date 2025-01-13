@@ -7,4 +7,56 @@
 - [LLM in Learning](http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/LLMinLearning_v1.2b.md)
   ![](https://q-server.tecnun.es/codex/images/login/image9.jpeg)
 
-  <style>img {width: 250px; }</style>
+  <style>
+            /* General reset for list styles */
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Style for the anchor tags */
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+            font-size: 18px;
+            margin-right: 15px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #0056b3;
+        }
+
+        /* Style for the images */
+        img {
+            max-width: 150px;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        /* Style for the list container */
+        ul {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0;
+        }
+
+        /* Align text and image properly */
+        li > *:first-child {
+            flex-grow: 1;
+        }
+  
+  </style>
