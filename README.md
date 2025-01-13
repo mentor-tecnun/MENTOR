@@ -1,13 +1,13 @@
 # LLM in Learning
 
 <ul>
-  <li><a href="https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md">AI presentation</a><br>
-<img src="https://www.researchgate.net/profile/Zafar-Khan/publication/309771961/figure/fig10/AS:668716249399301@1536445786169/Prediction-of-Moores-Law-1_W640.jpg" alt=""></li>
-  <li><a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/APIChatGPTv1.3.md">OpenAI API</a><br>
-<img src="https://images.openai.com/blob/b11fba8c-c51f-41c1-95b8-cc55db89af49/gpt-4-motif.svg?width=10&amp;height=10&amp;quality=50" alt=""></li>
+  <li><a href="https://www.nicolasserrano.com/r?https://www.nicolasserrano.com/digital/AI.md">AI presentation<br>
+<img src="https://www.researchgate.net/profile/Zafar-Khan/publication/309771961/figure/fig10/AS:668716249399301@1536445786169/Prediction-of-Moores-Law-1_W640.jpg" alt=""></a></li>
+  <li><a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/APIChatGPTv1.3.md">OpenAI API<br>
+<img src="https://images.openai.com/blob/b11fba8c-c51f-41c1-95b8-cc55db89af49/gpt-4-motif.svg?width=10&amp;height=10&amp;quality=50" alt=""></a></li>
   <li>
-    <a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/LLMinLearning_v1.2b.md">LLM in Learning</a><br>
-<img src="https://q-server.tecnun.es/codex/images/login/image9.jpeg" alt=""></li>
+    <a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/LLMinLearning_v1.2b.md">LLM in Learning<br>
+<img src="https://q-server.tecnun.es/codex/images/login/image9.jpeg" alt=""></a></li>
 </ul>
 
 <!--    
@@ -25,6 +25,7 @@
             list-style-type: none;
             padding: 0;
             margin: 0;
+            padding-right: 18em;
         }
 
         li {
@@ -54,7 +55,7 @@
 
         /* Style for the images */
         img {
-            max-width: 448px !important;
+            max-width: 206px !important;
             height: 182px;
             border-radius: 5px;
         }
