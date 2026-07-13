@@ -9,7 +9,7 @@
     <a href="http://www.nicolasserrano.com/r?//www.nicolasserrano.com/digital/LLMinLearning_v1.2b.md">LLM in Learning
 <img src="https://q-server.tecnun.es/codex/images/login/image9.jpeg" alt=""></a></li>
 <li>
-    <a href="https://www.nicolasserrano.com/digital/IngenIA/vg1?md=https://raw.githubusercontent.com/nicolasserrano/digital/refs/heads/master/IngenIA/IngenIA2026.md">IngenIA: Inteligencia Artificial en la Ingeniería
+    <a href="https://www.nicolasserrano.com/digital/IngenIA/vg1?md=https://raw.githubusercontent.com/nicolasserrano/digital/refs/heads/master/IngenIA/IngenIA2026.md">IA en la Ingeniería
 <img src="https://www.nicolasserrano.com/digital/IngenIA/fases.svg" alt=""></a></li>
 </ul>
 
@@ -29,6 +29,8 @@
             padding: 0;
             margin: 0;
             padding-right: 18em !important;
+            column-count: 2;
+            column-gap: 20px;
         }
 
         li {
