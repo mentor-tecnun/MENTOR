@@ -11,6 +11,9 @@
 <li>
     <a href="https://www.nicolasserrano.com/digital/IngenIA/vg1?md=https://raw.githubusercontent.com/nicolasserrano/digital/refs/heads/master/IngenIA/IngenIA2026.md">IA en la Ingeniería
 <img src="https://www.nicolasserrano.com/digital/IngenIA/fases.svg" alt=""></a></li>
+<li>
+    <a href="https://www.nicolasserrano.com/digital/IngenIA/vg1?md=https://raw.githubusercontent.com/nicolasserrano/digital/refs/heads/master/IngenIA/presentacion_sesion_marp.md">Formatos y simuladores con IA
+<img src="https://www.nicolasserrano.com/digital/IngenIA/ejemplos/ElementosFinitos.png" alt=""></a></li>
 </ul>
 
 <!--    
